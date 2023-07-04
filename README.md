@@ -5,4 +5,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3nnyyy&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3nnyyy&theme=github_dark&utcOffset=8)
-
