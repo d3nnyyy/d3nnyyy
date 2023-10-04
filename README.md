@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/d3nnyyy">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=d3nnyyy&theme=github_dark">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3nnyyy&theme=github_dark" alt="Denys' GitHub streak"/>
   </a>
 </p>
